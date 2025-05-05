@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ai-sanyamtyagi
+- 👋 Hi,my name is Sanyam Tyagi, @ai-sanyamtyagi
 - 👀 I’m interested in python, SQL ,Data Science and Machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on basic python projects.
